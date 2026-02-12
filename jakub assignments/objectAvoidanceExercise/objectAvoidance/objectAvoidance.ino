@@ -2,8 +2,6 @@ const int LEFT_FORWARD = 6;
 const int RIGHT_FORWARD = 5;
 const int LEFT_BACKWARD = 11;
 const int RIGHT_BACKWARD = 10;
-const int ROTATOR_LEFT = 3;
-const int ROTATOR_RIGHT = 2;
 
 const int TRIGGER_PIN = 12;
 const int ECHO_PIN = 13;
