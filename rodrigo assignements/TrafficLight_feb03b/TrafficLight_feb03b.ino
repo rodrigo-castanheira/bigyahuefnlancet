@@ -1,6 +1,6 @@
 const int LED_RED = 8;
-const int LED_YELLOW = 12;
-const int LED_GREEN = 13;
+const int LED_YELLOW = 7;
+const int LED_GREEN = 1;
 const int BUTTON_PIN = 4;
 
 int buttonState = 0;

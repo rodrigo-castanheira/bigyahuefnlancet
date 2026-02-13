@@ -1,6 +1,6 @@
 const int LED_RED = 8;
 const int FAST_BUTTON_PIN = 4;
-const int SLOW_BUTTON_PIN = 2;
+const int SLOW_BUTTON_PIN = 9;
 
 int fastbuttonState = 0;
 int lastfastbuttonState = 0;
