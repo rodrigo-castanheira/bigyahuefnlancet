@@ -27,16 +27,16 @@ void loop() {
     s[i] = analogRead(SENSOR_PINS[i]);
   }
 
-//  Serial.println(s[0]);
-//  Serial.println(s[1]);
-//  Serial.println(s[2]);
-//  Serial.println(s[3]);
-//  Serial.println(s[4]);
-//  Serial.println(s[5]);
-//  Serial.println(s[6]);
-//  Serial.println(s[7]);
-//  Serial.println("__________");
-//  delay(2000);
+  Serial.println(s[0]);
+  Serial.println(s[1]);
+  Serial.println(s[2]);
+  Serial.println(s[3]);
+  Serial.println(s[4]);
+  Serial.println(s[5]);
+  Serial.println(s[6]);
+  Serial.println(s[7]);
+  Serial.println("__________");
+  delay(2000);
 //  black = 1000
 // white = 200 - 450
 
